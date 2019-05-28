@@ -2,7 +2,7 @@
 var weatherjson;
 
 //vul eigen API key in tussen de "" (check de readme op https://github.com/CocoDeijmann/mondriaan/)
-var api_key = "";
+var api_key = "70cccd8e204e44b7c5efb6e622d2e9ad";
 var id = "2759794";
 // Amsterdam = 2759794
 // Reykjavik = 3413829
